@@ -1,13 +1,5 @@
 # Secrets
 .env
-.env.*
 
-# OS noise
+# OS
 .DS_Store
-
-# Editor noise
-.vscode/
-.idea/
-
-# Logs
-*.log
